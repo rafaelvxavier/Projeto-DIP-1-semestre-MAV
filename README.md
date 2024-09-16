@@ -8,9 +8,6 @@ Baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Auton
 * [Projeto](#projeto)
 * [Equipe](#equipe)
 * [Sprints](#Sprints)
-* [Backlog do Produto](#Backlog-do-Produto)
-* [Burndown das Sprints](#Burndowndas-Sprints)
-* [Tecnologias Especificas apoio](#Tecnologias-Especifica/apoio)
 
 
 ## PROJETO
@@ -60,89 +57,14 @@ Sprint | Previsão | Status| Histórico|
 |Feira de Soluções|27/06/2024 | a fazer |[Ver Relatório](https://github.com/anacarolinae/LASJK/blob/main/Relatorio%20Sprint%201.pdf) | 
 
 
-## BACKLOG DO PRODUTO
-
-* **Sprint 1**
-  
-![sprint backlog]()
-
-* **Sprint 2**
-
-![sprint backlog]()
-
-* **Sprint 3**
-
-![sprint backlog]()
-
-* **Sprint 4**
-  
-![sprint backlog]()
-  
-
-## BURNDOWN DAS SPRINTS
-
-* **Burndown da Sprint 1**
 
 
-## FERRAMENTAS UTILIZADAS 
-
-- ### Metodologia Scrum:
-
-![Relatório Scrum](https://github.com/anacarolinae/LASJK/blob/main/Metodologia%20Scrum.png)
 
 
-## TECNOLOGIAS ESPECÍFICAS/ APOIO
-
-![Tenologias Específicas]()
-
-## FUNCIONALIDADES E REGISTROS DAS SPRINTS
-
-- ### Apresentação do MVP Sprint 1:
-
-![Dashboard MVP]()
 
 
-## REGRAS DE NEGÓCIO
-
-- Criação de um Dashboard intuitivo para visualização dos dados apresentados.
-
-- Documentação no GitHub e gestão do projeto desenvolvida no JIRA SOFTWARE.
-
-- Documentação do projeto de forma clara e de fácil acesso.
-
-- Utilização da Metodologia ágil.
-
-- Power BI / Jira / Canvas.
 
 
-## COMPETÊNCIAS DESENVOLVIDAS
-
-## Hard Skill (saber tecnológico)
-<details>
-<summary>Hard Skills desenvolvidas</summary>
-  
-| Tecnologia/Metodologia | Classificação |
-| ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆  |
-| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
- 
-</details>
-
-
-## Soft Skill (saber comportamental)
-<details>
-<summary>Soft Skills desenvolvidas</summary>
-
-| Habilidades | Classificação |
-| ---------------------- | ------------- |
-| Colaboração | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Proatividade| ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Pensamento Crítico | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Adaptabilidade | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Resiliência | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 
 
 </details>
