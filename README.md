@@ -7,7 +7,6 @@ Baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Auton
 
 * [Projeto](#projeto)
 * [Equipe](#equipe)
-* [Sprints](#Sprints)
 
 
 ## PROJETO
