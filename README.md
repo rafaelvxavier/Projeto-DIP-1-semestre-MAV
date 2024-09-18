@@ -6,7 +6,7 @@ Baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Auton
 ## ÍNDICE
 
 * [Projeto](#projeto)
-* [Equipe](#equipeinovax)
+* [Equipe](#equipe)
 
 
 ## PROJETO
@@ -14,7 +14,7 @@ Baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Auton
   Nosso projeto de Manufatura Avançada visa produzir um **Exaustor de Bancada** com o objetivo de inibir a inalação de fumaça tóxica liberada pelo processo de solda com estanho.
   Desenvolvimento de um projeto pedagógico baseado na Metodologia DIP, visando o ensino-aprendizado centrado no desenvolvimento de competências. Este projeto é fundamentado nos pilares do aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. Utilizando estratégias para compreender o problema, conceber uma solução viável, desenvolver e implementar o MVP (Minimum Viable Product), seguido pela sua operação (CDIO).
 
-## EQUIPE **iNovaX**
+## EQUIPE
 
 ![g-J-zHLIQe-izyhWlMObzQ-removebg-preview](https://github.com/user-attachments/assets/3b233e1e-67e4-4aa6-8602-1b09e0ad118c)
 
