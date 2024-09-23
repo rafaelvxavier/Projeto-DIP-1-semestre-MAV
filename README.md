@@ -16,7 +16,7 @@ Baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Auton
 
 ## EQUIPE
 
-![g-J-zHLIQe-izyhWlMObzQ-removebg-preview](https://github.com/user-attachments/assets/3b233e1e-67e4-4aa6-8602-1b09e0ad118c)
+![logo iNovaX](https://github.com/user-attachments/assets/e785732f-8245-42c6-a521-938210461982)
 
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
